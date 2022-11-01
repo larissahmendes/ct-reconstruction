@@ -1,6 +1,6 @@
 # IA-751 - Instrumentação Biomédica Avançada
 
-## Código de Simulação Computacional De Reconstrução TomográficaPor Retroprojeção Filtrada
+## Código de Simulação Computacional De Reconstrução Tomográfica por Retroprojeção Filtrada
 
 O código de análise foi feito na extensão para uso do [Live Editor](https://www.mathworks.com/videos/using-the-live-editor-117940.html) do MATLAB. Ao abrir o software, na aba Live Editor, basta clicar no botão verde de `Run` ou `Run all` no código `main.mlx`.
 
